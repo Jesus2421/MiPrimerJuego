@@ -1,4 +1,4 @@
-# PruebaEmpresa
+# Detalles del ejercicio
 
 
 Detalles de la prueba:
